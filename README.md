@@ -1,7 +1,6 @@
 # 💫 About Me:
 ## 🔭 I’m currently working on  
 Building intelligent machine learning pipelines and exploring full-stack development (React, Node.js, Flask).  
-Developing my personal portfolio and taking on algorithmic challenges as a Codeforces Specialist.  
 Projects at the intersection of AI and scalable web systems, like a full-stack weather forecasting app and loan classification systems.  
 
 ---
