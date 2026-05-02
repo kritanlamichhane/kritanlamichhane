@@ -21,6 +21,8 @@ Finding exciting internship or freelance opportunities in software engineering.
 Advanced full-stack frameworks (FastAPI, React.js), cloud deployment, and diving deeper into complex data structures.  
 New machine learning algorithms to improve predictive models.
 
+## 🌐 Portfolio: [Visit My Portfolio](https://kritanlamichhane.vercel.app/)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kritanlamichhane/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lamichhanekritan7@gmail.com) 
