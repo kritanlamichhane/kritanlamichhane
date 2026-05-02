@@ -22,7 +22,7 @@ Advanced full-stack frameworks (FastAPI, React.js), cloud deployment, and diving
 New machine learning algorithms to improve predictive models.
 
 ## 🌐 Portfolio: 
-[Visit My Portfolio] (https://kritanlamichhane.vercel.app/)
+[Visit My Portfolio](https://kritanlamichhane.vercel.app/)
 
 
 ## 🌐 Socials:
