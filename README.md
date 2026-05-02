@@ -21,7 +21,8 @@ Finding exciting internship or freelance opportunities in software engineering.
 Advanced full-stack frameworks (FastAPI, React.js), cloud deployment, and diving deeper into complex data structures.  
 New machine learning algorithms to improve predictive models.
 
-## 🌐 Portfolio: [Visit My Portfolio](https://kritanlamichhane.vercel.app/)
+## 🌐 Portfolio: 
+[Visit My Portfolio] (https://kritanlamichhane.vercel.app/)
 
 
 ## 🌐 Socials:
